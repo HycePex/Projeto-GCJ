@@ -1,8 +1,8 @@
 {
-    "id": "0ea77fa3-6607-40af-ad93-6a0c90b47965",
+    "id": "a2939b34-0254-474e-bbea-0da1fbfd5bc0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cenario",
+    "name": "cenario_fase1_obj",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "1e6740d8-5daa-4363-9b29-5edfdaf233b1",
     "visible": true
 }

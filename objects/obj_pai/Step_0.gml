@@ -20,7 +20,7 @@ if (hspd != 0) image_xscale = sign(hspd);
 
 //COLISAO HORIZONTAL
 
-if place_meeting(x + hspd, y, obj_dentes)
+if place_meeting(x + hspd, y, obj_dentes) 
 {
 	while(!place_meeting(x + sign(hspd), y, obj_dentes))
 	{

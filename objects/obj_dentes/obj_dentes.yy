@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_dentes",
     "eventList": [
-        
+        {
+            "id": "e65fb981-548a-488e-bd0a-6630473dadcb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3f5b9ae9-c8f7-489f-b646-3353b5ea621b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

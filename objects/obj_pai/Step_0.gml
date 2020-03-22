@@ -46,3 +46,28 @@ y += vspd
 
 
 #endregion
+
+
+#region TROCA DE SPRITE
+if (hspd != 0)
+{
+	sprite_index = spr_pai_andando;
+
+	if (hspd = 0)
+	{
+	sprite_index = spr_pai_parado;
+	}
+}
+if (vspd != 0)
+{
+	sprite_index = spr_pai_andando_frente;
+
+	if (hspd = 0)
+	{
+	sprite_index = spr_pai_parado;
+	}
+}
+
+
+
+#endregion

@@ -3,6 +3,8 @@ key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
 key_up = keyboard_check(ord("W"));
 key_down = keyboard_check(ord("S"));
+
+if(keyboard_check_pressed(vk_control)) game_restart()
 #endregion
 
 
@@ -34,7 +36,7 @@ x += hspd
 
 if place_meeting(x, y + vspd, obj_dentes)
 {
-	while(!place_meeting(x, y + sign(vspd), obj_dentes))
+	while(!place_meeting(x, y + 2*sign(vspd), obj_dentes))
 	{
 		y += sign(vspd);	
 	}
@@ -70,4 +72,9 @@ if (vspd != 0)
 
 
 
+
+
+
 #endregion
+
+if(global.inimigos < 1) room_goto(r_fase2)

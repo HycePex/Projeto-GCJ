@@ -1,4 +1,4 @@
-
+																	
 if(global.life > 1){
 	global.life--	
 }else{	

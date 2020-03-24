@@ -4,9 +4,10 @@ key_right = keyboard_check(ord("D"));
 key_up = keyboard_check(ord("W"));
 key_down = keyboard_check(ord("S"));
 
-if(keyboard_check_pressed(vk_control)) game_restart()
+if(keyboard_check_pressed(vk_control)) room_restart()
+if(keyboard_check_pressed(vk_tab)) room_goto(r_fase2)
 #endregion
-
+									
 
 
 #region MOVIMENTAÇÃO
@@ -51,23 +52,18 @@ y += vspd
 
 
 #region TROCA DE SPRITE
+
+if (hspd = 0) and (vspd = 0)
+{
+	sprite_index = spr_pai_parado;
+}
 if (hspd != 0)
 {
-	sprite_index = spr_pai_andando;
-
-	if (hspd = 0)
-	{
-	sprite_index = spr_pai_parado;
-	}
+	sprite_index = spr_pai_andando;	
 }
 if (vspd != 0)
 {
 	sprite_index = spr_pai_andando_frente;
-
-	if (hspd = 0)
-	{
-	sprite_index = spr_pai_parado;
-	}
 }
 
 

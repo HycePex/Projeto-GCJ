@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "288def91-5791-488f-963a-03626fd5fa13",
+            "Value": {
+                "id": "58e9c24e-61d5-4948-a522-88da5c0b8abb",
+                "resourcePath": "objects\\obj_pai_fase2\\obj_pai_fase2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2d6f9268-aa37-4ea6-be85-88b6f0791d89",
             "Value": {
                 "id": "be352af3-8f05-40ad-8db4-9e2e4d7b3c43",
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "c4abca17-0238-4ac1-82f1-4de895e9e216",
+            "Value": {
+                "id": "b7ff0e1a-a1d4-4672-8568-9915a595ecea",
+                "resourcePath": "sprites\\spr_pai_paradolado\\spr_pai_paradolado.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c811a1bb-1fd3-4369-8b84-7075d50124f7",
             "Value": {
                 "id": "b0788dd5-fb85-4077-b2ec-7faad1c6e8dc",
@@ -363,6 +379,14 @@
             "Value": {
                 "id": "21221957-9983-4f09-9ab2-2de2ec712efd",
                 "resourcePath": "sprites\\spr_traqueia\\spr_traqueia.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d205f431-93ce-4d8e-b018-012e2ca5a41d",
+            "Value": {
+                "id": "2b7fcbd1-02f5-49e2-891e-b4a9f2af84ef",
+                "resourcePath": "sprites\\spr_pai_fase2\\spr_pai_fase2.yy",
                 "resourceType": "GMSprite"
             }
         },

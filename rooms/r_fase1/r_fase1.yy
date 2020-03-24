@@ -2,7 +2,7 @@
 {
     "name": "r_fase1",
     "id": "acf8bc48-d5c4-45c9-b03a-334fb5aba6c7",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

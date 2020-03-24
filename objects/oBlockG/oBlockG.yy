@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "oBlockG",
     "eventList": [
-        {
-            "id": "ee7697d0-994f-4775-b26b-1e465a0f7b5f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "47c5ee2d-9294-4c0d-a2bc-6c6ace8a660a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -32,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
+    "solid": true,
     "spriteId": "c1cd56ba-bfba-4279-a9ef-11ad00a9cb7e",
     "visible": true
 }

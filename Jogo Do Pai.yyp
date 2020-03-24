@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "62ced843-23b7-4738-ab71-68b2df9a067b",
+            "Value": {
+                "id": "3be699ab-fa75-42d9-abb7-e16c83d735cf",
+                "resourcePath": "sprites\\spr_mira2\\spr_mira2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "87e4633e-a3d9-45fc-ba24-13894f006e06",

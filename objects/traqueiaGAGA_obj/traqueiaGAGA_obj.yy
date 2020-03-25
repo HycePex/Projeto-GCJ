@@ -1,19 +1,10 @@
 {
-    "id": "4d6ea43a-2792-4ab7-b30c-b1b1b10b59c8",
+    "id": "37d44ea8-d2e8-46a8-80fe-25b83af009b5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_mira",
+    "name": "traqueiaGAGA_obj",
     "eventList": [
-        {
-            "id": "cba996ef-91f1-4691-9eb1-ebb09265ef6c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "4d6ea43a-2792-4ab7-b30c-b1b1b10b59c8"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -32,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "62ced843-23b7-4738-ab71-68b2df9a067b",
+    "solid": true,
+    "spriteId": "9c1a6282-a02e-4493-b8ec-2fecc07cb7c3",
     "visible": true
 }

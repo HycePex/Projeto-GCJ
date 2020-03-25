@@ -1,8 +1,8 @@
 {
-    "id": "37d44ea8-d2e8-46a8-80fe-25b83af009b5",
+    "id": "3cf43ccf-e686-492a-9bac-ece6d8755f82",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "traqueiaGAGA_obj",
+    "name": "object_restart",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "9c1a6282-a02e-4493-b8ec-2fecc07cb7c3",
-    "visible": false
+    "spriteId": "c1cd56ba-bfba-4279-a9ef-11ad00a9cb7e",
+    "visible": true
 }

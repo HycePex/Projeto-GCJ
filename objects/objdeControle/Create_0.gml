@@ -1,3 +1,3 @@
-intervalo = room_speed * 3;
+//intervalo = room_speed * 3;
 
-Contador = 0;
+contador = 0;

@@ -9,5 +9,5 @@ active = true;
 
 
 global.inimigos1 = 30;
-global.life1 = 5;
+global.life1 = 10;
 global.tiros1 = 50;

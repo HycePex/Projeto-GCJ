@@ -5,7 +5,7 @@
 //key_down = keyboard_check(ord("S"));
 
 if(keyboard_check_pressed(vk_control)) room_restart()
-if(keyboard_check_pressed(vk_tab)) room_goto(r_fase2)
+if(keyboard_check_pressed(vk_tab)) room_goto(r_fase1)
 //#endregion
 
 
@@ -92,7 +92,7 @@ if((keyboard_check(ord("W"))) and !place_free(x, y+1)) vspeed = -20
 //}
 
 if(active) {
-	gravity = 0.05;
+	gravity = 0.04;
 	x += (mx - x) * 0.01;
 	y += (my - y) * 0.01;
 }

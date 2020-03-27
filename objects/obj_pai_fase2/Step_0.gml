@@ -30,12 +30,12 @@ if(keyboard_check_pressed(vk_tab)) room_goto(r_fase2)
 if (place_free(x, y+1)) gravity = 1;
 else gravity = 0;
 
-if(keyboard_check(vk_right)) hspeed = 5; 
-if(keyboard_check(vk_left)) hspeed = -5; 
+if(keyboard_check(ord("D")))  hspeed = 5; 
+if(keyboard_check(ord("A")))  hspeed = -5; 
 
-if(!keyboard_check(vk_right) and !keyboard_check(vk_left)) hspeed = 0
+if(!(keyboard_check(ord("D")))  and !(keyboard_check(ord("A"))) ) hspeed = 0
 
-if(keyboard_check_pressed(vk_space) and !place_free(x, y+1)) vspeed = -20
+if((keyboard_check(ord("W"))) and !place_free(x, y+1)) vspeed = -20
 
 
 

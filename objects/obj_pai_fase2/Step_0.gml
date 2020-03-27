@@ -80,26 +80,38 @@ if(keyboard_check_pressed(vk_space) and !place_free(x, y+1)) vspeed = -20
 //#endregion
 
 //CHECKING HOOK
-if(mouse_check_button_pressed(mb_left))
-{
+//if(mouse_check_button_pressed(mb_left))
+//{
 
-	mx = mouse_x;
-	my = mouse_y;
-	if(place_meeting(mx,my,oBlockG)){
-		active = true;
+	//mx = 300;
+	//my = 50;
+	//if(place_meeting(mx,my,oBlockG)){
+		//active = true;
 		
-	}
-}
+	//}
+//}
 
 if(active) {
-	gravity = 0.1;
-	x += (mx - x) * 0.1;
-	y += (my - y) * 0.1;
+	gravity = 0.05;
+	x += (mx - x) * 0.01;
+	y += (my - y) * 0.01;
 }
 
 	
 
 
-if(mouse_check_button_released(mb_left)){
-	active = false;
-}
+//if(mouse_check_button_released(mb_left)){
+	//active = false;
+//
+
+
+
+
+
+
+
+
+
+
+
+

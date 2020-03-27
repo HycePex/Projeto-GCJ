@@ -5,4 +5,9 @@
 
 mx = x;
 my = y;
-active = false;
+active = true;
+
+
+global.inimigos1 = 30;
+global.life1 = 5;
+global.tiros1 = 50;

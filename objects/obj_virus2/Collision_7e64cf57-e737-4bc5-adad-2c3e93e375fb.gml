@@ -7,3 +7,5 @@ instance_destroy();
 
 global.inimigos1--;
 
+vida--
+

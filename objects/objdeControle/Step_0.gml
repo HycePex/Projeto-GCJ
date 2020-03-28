@@ -8,6 +8,6 @@ contador++
 //Contador = 0
 //}
 
-if (contador > 0 ) and (contador % 40 == 0)
+if (contador > 0 ) and (contador % 20 == 0)
 
-instance_create_layer(choose(200,400,600, 800, 1000, 1200, 1400, 1600, 1800), room_height,"Instances",obj_virus2)
+instance_create_layer(choose(600, 800, 1000, 1200, 1400), room_height,"Instances",obj_virus2)

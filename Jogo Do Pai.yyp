@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1a34cadd-a7de-4397-b3d0-d5efa51623f5",
+            "Value": {
+                "id": "b76b9f8d-2e9f-4691-9f61-8cb86e2269bb",
+                "resourcePath": "objects\\obj_acido\\obj_acido.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1e6740d8-5daa-4363-9b29-5edfdaf233b1",
             "Value": {
                 "id": "3080686f-afdc-4a3e-97db-53eed8f2f9d6",
@@ -140,6 +148,14 @@
                 "id": "3fca2bef-1bea-4026-add7-952dc98de6e9",
                 "resourcePath": "objects\\traqueiaGAGA_obj\\traqueiaGAGA_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "385f04e3-1bcc-42b9-882d-357713ecb13b",
+            "Value": {
+                "id": "4d107082-6946-4ae0-a06f-3e6ea2728cbc",
+                "resourcePath": "sprites\\spr_acido\\spr_acido.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -316,6 +332,14 @@
                 "id": "1f5d5f9b-0f5c-4582-8426-d766e1b1d59a",
                 "resourcePath": "objects\\obj_virus_municao2\\obj_virus_municao2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8d22fa78-1623-46b2-ae5d-5834fa370ee0",
+            "Value": {
+                "id": "653c0e1c-eac1-4cc9-9a0b-1b80ca6b3c23",
+                "resourcePath": "sprites\\spr_pai_fase3\\spr_pai_fase3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -511,6 +535,14 @@
             }
         },
         {
+            "Key": "d6708d39-f299-43cf-8ed6-81c1b8906616",
+            "Value": {
+                "id": "252696fe-61f6-49ee-a923-cf71bd35dc8d",
+                "resourcePath": "sprites\\spr_chao_fase3\\spr_chao_fase3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d753513e-83f7-4015-a8aa-c0c6e8fa23bd",
             "Value": {
                 "id": "53b2f420-290c-4fce-a9dc-687c512492b3",
@@ -527,10 +559,26 @@
             }
         },
         {
+            "Key": "da07b778-065f-4ef8-95f6-c3354e8a54e6",
+            "Value": {
+                "id": "f060ea55-babe-4621-9331-ece92058755b",
+                "resourcePath": "scripts\\column_corners\\column_corners.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dcab7e24-c678-4b9e-b66f-52fe16d65567",
             "Value": {
                 "id": "2e48a19c-feb6-48a6-8224-1ba5b8401877",
                 "resourcePath": "objects\\obj_pai2\\obj_pai2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e31c7aa3-9f2c-4bf2-8c05-b97a8f801f9b",
+            "Value": {
+                "id": "1f3d2761-ae6d-4ab5-8db6-1a5de3891719",
+                "resourcePath": "objects\\obj_pai_fase3\\obj_pai_fase3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -564,6 +612,14 @@
                 "id": "a0dc148a-dd1a-4d0f-a997-a176023bab4a",
                 "resourcePath": "views\\ed2c70d1-9ae1-49c4-a45b-8c9cf4438568.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef55e194-864b-4e6d-897b-680cff203101",
+            "Value": {
+                "id": "e4cd9093-2923-4a44-984c-6799935d5cf6",
+                "resourcePath": "objects\\obj_chao_fase3\\obj_chao_fase3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -616,7 +672,7 @@
         }
     ],
     "script_order": [
-        
+        "da07b778-065f-4ef8-95f6-c3354e8a54e6"
     ],
     "tutorial": ""
 }

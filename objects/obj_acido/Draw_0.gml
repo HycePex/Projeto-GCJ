@@ -1,7 +1,6 @@
-  
 // colors in triangle gradient
 var col1 = c_aqua;
-var col2 = c_blue;
+var col2 = c_green;
 	
 for (var i = 0; i < columns; i++) {
 	// set corner vars

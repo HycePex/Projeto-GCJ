@@ -4,7 +4,8 @@ key_right = keyboard_check(ord("D"));
 key_up = keyboard_check(ord("W"))
 key_down = keyboard_check(ord("S"));
 
-
+if(keyboard_check_pressed(vk_control)) room_restart()
+if(keyboard_check_pressed(vk_tab)) room_goto(r_fase1)
 #endregion
 
 
@@ -14,13 +15,7 @@ var move = key_right - key_left;
 hspd = move * spd;
 
 vspd += grv; // ou spd;
-
-x += hspd
-y += vspd
-if (hspeed != 0) image_xscale = sign(hspeed); 
-
-x += hspd
-y += hspd
+if (hspd != 0) image_xscale = sign(hspd); 
 #endregion
 
 
@@ -57,7 +52,7 @@ y += vspd
 #region JUMP
 
 if place_meeting(x, y+1, obj_chao_fase3) and key_up{
-	vspd -= 10	
+	vspd -= 25	
 }
 
 #endregion

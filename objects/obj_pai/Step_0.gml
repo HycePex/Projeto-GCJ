@@ -7,7 +7,6 @@ key_down = keyboard_check(ord("S"));
 if(keyboard_check_pressed(vk_control)) room_restart()
 if(keyboard_check_pressed(vk_tab)) room_goto(r_fase2)
 
-if(keyboard_check_pressed(vk_enter)) room_goto(r_fase3)
 #endregion
 									
 

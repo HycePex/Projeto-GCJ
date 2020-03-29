@@ -13,9 +13,7 @@ for (var i = 0; i < columns; i++) {
 
 	// Basic collision detection
 	// TODO: collision lines with instances
-    //if (mouse_check_button(mb_left) &&
-       //point_in_rectangle(mouse_x, mouse_y, x1, y1, x2, y2)) 
-	   if (collision_line(x1, y1, x2, right_y1, obj_pai_fase3, true, false)){
+   if (collision_line(x1, y1, x2, right_y1, obj_pai_fase3, true, false)) {
         Speed[i] -= 10;
     }
 }

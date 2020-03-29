@@ -7,4 +7,4 @@ grv = 1;
 in_water = false;
 make_splash = true;
 SPEED = 0;
-yprev = y;
+//yprev = y;

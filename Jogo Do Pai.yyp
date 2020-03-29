@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "29c64d46-5951-4ac5-bf42-ea3efa203782",
+            "Value": {
+                "id": "e9bf60d1-bc71-44de-99e5-2ff8d90701f6",
+                "resourcePath": "sprites\\spr_estomago\\spr_estomago.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d6f9268-aa37-4ea6-be85-88b6f0791d89",
             "Value": {
                 "id": "be352af3-8f05-40ad-8db4-9e2e4d7b3c43",
@@ -156,6 +164,14 @@
                 "id": "4d107082-6946-4ae0-a06f-3e6ea2728cbc",
                 "resourcePath": "sprites\\spr_acido\\spr_acido.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3a0ba16b-cb6d-4cba-affb-0d1066852737",
+            "Value": {
+                "id": "b5a5c6a2-67a8-4072-a495-4a1671ce559f",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -532,6 +548,14 @@
                 "id": "2b7fcbd1-02f5-49e2-891e-b4a9f2af84ef",
                 "resourcePath": "sprites\\spr_pai_fase2\\spr_pai_fase2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4104ea3-8b77-40ac-8c6b-5084810ae822",
+            "Value": {
+                "id": "c8fc82a1-6782-43da-afb0-e1e11ad53b5a",
+                "resourcePath": "objects\\obj_estomago\\obj_estomago.yy",
+                "resourceType": "GMObject"
             }
         },
         {

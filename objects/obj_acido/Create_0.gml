@@ -10,11 +10,11 @@
  * Huge credit to Michael Hoffman for his original C# & XNA tutorial on this:
  * https://gamedevelopment.tutsplus.com/tutorials/make-a-splash-with-dynamic-2d-water-effects--gamedev-236
  */
- 
-bodyX = x;				// top-left x-pos
-bodyY = y;				// top-right y-pos
-bodyWidth = 800;		// hor span of body
-bodyHeight = 250;		// vert span of body
+
+bodyX = 0;// top-left x-pos
+bodyY = 800;				// top-right y-pos
+bodyWidth = room_width;		// hor span of body
+bodyHeight = room_height;		// vert span of body
 
 columns = 10;			// springs
 columnWidth = (bodyWidth / columns);

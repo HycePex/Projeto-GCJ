@@ -57,3 +57,4 @@ if place_meeting(x, y+1, obj_chao_fase3) and key_up{
 
 #endregion
 #endregion
+

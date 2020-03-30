@@ -1,3 +1,8 @@
+bodyY += 1
+
+
+
+
 for (var i = 0; i < columns; i++) {
 	// the spring logic
     var Displacement = (TargetHeight[i] - Height[i]);
@@ -14,6 +19,9 @@ for (var i = 0; i < columns; i++) {
 	// Basic collision detection
 	// TODO: collision lines with instances
    if (collision_line(x1, y1, x2, right_y1, obj_pai_fase3, true, false)) {
+        Speed[i] -= 10;
+    }
+	if (collision_line(x1, y1, x2, right_y1, obj_chao_fase3, true, false)) {
         Speed[i] -= 10;
     }
 }

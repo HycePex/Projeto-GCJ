@@ -1,19 +1,10 @@
 {
-    "id": "ef55e194-864b-4e6d-897b-680cff203101",
+    "id": "2fc6dc4d-0551-4e56-9969-c7acd999da24",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_chao_fase3",
+    "name": "obj_estomagoGAGA",
     "eventList": [
-        {
-            "id": "79b8ec8f-afe6-4b8a-8272-684a3cdde0b4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "ef55e194-864b-4e6d-897b-680cff203101"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d6708d39-f299-43cf-8ed6-81c1b8906616",
+    "spriteId": "c7b5bd4b-8982-414b-9f45-7bdfa181b1a3",
     "visible": true
 }

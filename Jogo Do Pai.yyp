@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1a88eaa4-5d28-4a2a-8d6c-f88d9bc8606a",
+            "Value": {
+                "id": "87aa381e-d0f8-42ce-955a-6fd8019f9f6c",
+                "resourcePath": "sprites\\Fase3\\Fase3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e6740d8-5daa-4363-9b29-5edfdaf233b1",
             "Value": {
                 "id": "3080686f-afdc-4a3e-97db-53eed8f2f9d6",
@@ -148,6 +156,14 @@
                 "id": "d5779718-8cc2-4b82-bdf4-65ec54275295",
                 "resourcePath": "views\\2f625291-60c5-4af0-a218-d922baa64638.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2fc6dc4d-0551-4e56-9969-c7acd999da24",
+            "Value": {
+                "id": "ac2452e7-af63-478b-bdd3-015067a78b2d",
+                "resourcePath": "objects\\obj_estomagoGAGA\\obj_estomagoGAGA.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -271,6 +287,14 @@
             }
         },
         {
+            "Key": "72b799cb-acce-4f4e-ae94-3980c974413c",
+            "Value": {
+                "id": "09e89690-86d3-4fe1-ae8e-bbfa5aa535f3",
+                "resourcePath": "views\\72b799cb-acce-4f4e-ae94-3980c974413c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "87e4633e-a3d9-45fc-ba24-13894f006e06",
@@ -343,6 +367,22 @@
             }
         },
         {
+            "Key": "859a5fff-5a7d-42d7-9e3c-d123bc7dced0",
+            "Value": {
+                "id": "944bd503-e48e-4ab0-b07b-a38d09f46db5",
+                "resourcePath": "views\\859a5fff-5a7d-42d7-9e3c-d123bc7dced0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8bc3e440-8a1f-4e00-8889-01cddda555c1",
+            "Value": {
+                "id": "9836efe0-4696-4ad7-9a78-53e8e7837385",
+                "resourcePath": "views\\8bc3e440-8a1f-4e00-8889-01cddda555c1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8c5b2679-fd0e-4717-92a1-4389d7724432",
             "Value": {
                 "id": "1f5d5f9b-0f5c-4582-8426-d766e1b1d59a",
@@ -363,6 +403,14 @@
             "Value": {
                 "id": "5ff39509-4e9b-4593-987e-274f00f65bf7",
                 "resourcePath": "views\\8f81b30d-0fa0-4a6e-afd3-e049f6aa16e1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "939aa46b-35d2-42e9-84af-acfeee7d3d1c",
+            "Value": {
+                "id": "56eea403-7717-426e-bac6-7ea566eb6007",
+                "resourcePath": "views\\939aa46b-35d2-42e9-84af-acfeee7d3d1c.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -519,6 +567,14 @@
             }
         },
         {
+            "Key": "c7b5bd4b-8982-414b-9f45-7bdfa181b1a3",
+            "Value": {
+                "id": "3cfb8895-d24f-4761-a8cc-2c6713e64c2d",
+                "resourcePath": "sprites\\spr_estomagoGAGA\\spr_estomagoGAGA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c99e91eb-acb1-4609-ba33-4162277d5e45",
             "Value": {
                 "id": "9bb99edf-92f1-4aed-af92-ac3bd485bef0",
@@ -628,6 +684,14 @@
                 "id": "115cf516-91a9-4343-a88f-a3aa023e7e3d",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4803587-7f31-4c8b-bf6e-0360bc4576c0",
+            "Value": {
+                "id": "23ef0f06-70d3-4de7-ab79-1c2d4a9cdcfa",
+                "resourcePath": "views\\e4803587-7f31-4c8b-bf6e-0360bc4576c0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

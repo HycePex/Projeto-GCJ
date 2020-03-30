@@ -8,3 +8,6 @@ in_water = false;
 make_splash = true;
 SPEED = 0;
 //yprev = y;
+
+
+cont = 20;

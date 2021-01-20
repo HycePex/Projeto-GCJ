@@ -1,2 +1,2 @@
 # Projeto-GCJ
-Game of 'CornaJam'
+Game of 'CoronaJam'
